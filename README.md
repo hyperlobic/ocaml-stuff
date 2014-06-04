@@ -1,0 +1,1 @@
+Some random projects to learn Ocaml and functional programming
